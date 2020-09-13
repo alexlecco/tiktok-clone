@@ -15,12 +15,17 @@ function VideoFooter() {
           <Ticker mode="smooth">
             {({ index }) => (
               <>
-                <p>Hold on - Lu2vyk ft Madison Gold</p>
+                <p> Lu2vyk - Deep end </p>
               </>
             )}
           </Ticker>
         </div>
       </div>
+      <img
+        className="videoFooter__record"
+        src="https://static.thenounproject.com/png/934821-200.png"
+        alt=""
+      />
     </div>
   );
 }
