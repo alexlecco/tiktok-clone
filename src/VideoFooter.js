@@ -15,7 +15,7 @@ function VideoFooter() {
           <Ticker mode="smooth">
             {({ index }) => (
               <>
-                <p> Lu2vyk - Deep end </p>
+                <p> Lu2vyk - Hold on </p>
               </>
             )}
           </Ticker>
